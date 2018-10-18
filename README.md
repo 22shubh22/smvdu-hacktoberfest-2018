@@ -32,7 +32,7 @@ have learned contributing to open source and win your T-Shirt!
 1. Open git bash.
 
 2. **Clone** : Make a copy of repo in your Computer.  
-    `git clone <url>`
+    `git clone <url of forked repo>`
     
 2. Make changes in the repo.
 
