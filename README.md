@@ -27,8 +27,25 @@ Create 4 more pull requests by adding different programs to your folder or
 create 4 more pull requests to some other open source projects as now you
 have learned contributing to open source and win your T-Shirt!
 
+## Using git
+
+1. Clone the repo : Make a copy of repo in your local computer.
+
+    Open git bash - ```git clone <url>```
+    
+2. Make changes in the repo :
+
+3. Git add
+    Use ``` git status ``` to see the status of project
+    Use ``` git add . ``` to stage all the changes for commit.
+
+4. use ``` git commit -m "Type your message" ``` to commit your code addition to the repo.
+
+5. use ``` git push ```  to push all the code to the github.
+
+6. Make pull request using github platform.
+
 ---
 
 [Inspired From](https://github.com/Hacktoberfest-2018/Hello-world)!
-
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
