@@ -31,19 +31,21 @@ have learned contributing to open source and win your T-Shirt!
 
 1. Open git bash.
 
-2. **Clone** : Make a copy of repo in your Computer.
-
-    ```git clone <url>```
+2. **Clone** : Make a copy of repo in your Computer.  
+    `git clone <url>`
     
-2. Make changes in the repo
+2. Make changes in the repo.
 
-3. Git add
-    Use ``` git status ``` to see the status of project.
-    Use ``` git add . ``` to stage all the changes for commit.
+3. **Add**  
+    Use `git status` to see the status of project.  
+    
+    Use `git add .` to stage all the changes for commit.
 
-4. use ``` git commit -m "Type your message" ``` to commit your code with a commit message.
+4. **Commit**  
+    use `git commit -m "Type your message"` to commit your code with a commit message.
 
-5. use ``` git push ```  to push the commited changes to github.
+5. **Push**  
+    use `git push` to push the commited changes to github.
 
 6. Make pull request using github.
 
