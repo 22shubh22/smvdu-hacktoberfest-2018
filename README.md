@@ -29,21 +29,23 @@ have learned contributing to open source and win your T-Shirt!
 
 ## Using git
 
-1. Clone the repo : Make a copy of repo in your local computer.
+1. Open git bash.
 
-    Open git bash - ```git clone <url>```
+2. **Clone** : Make a copy of repo in your Computer.
+
+    ```git clone <url>```
     
-2. Make changes in the repo :
+2. Make changes in the repo
 
 3. Git add
-    Use ``` git status ``` to see the status of project
+    Use ``` git status ``` to see the status of project.
     Use ``` git add . ``` to stage all the changes for commit.
 
-4. use ``` git commit -m "Type your message" ``` to commit your code addition to the repo.
+4. use ``` git commit -m "Type your message" ``` to commit your code with a commit message.
 
-5. use ``` git push ```  to push all the code to the github.
+5. use ``` git push ```  to push the commited changes to github.
 
-6. Make pull request using github platform.
+6. Make pull request using github.
 
 ---
 
