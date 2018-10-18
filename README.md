@@ -49,6 +49,10 @@ have learned contributing to open source and win your T-Shirt!
 
 6. Make pull request using github.
 
+## Update a forked repo
+Follow this - [https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository](https://stackoverflow.com/questions/7244321/how-do-i-update-a-github-forked-repository)
+
+
 ---
 
 [Inspired From](https://github.com/Hacktoberfest-2018/Hello-world)!
